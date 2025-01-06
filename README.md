@@ -1,2 +1,2 @@
-# webhooks.channable.github.io
+# mandate.channable.com
 Subdomain Takeover
